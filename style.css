@@ -1,0 +1,23 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.block {
+    flex: 1 1 32px;
+    background-color: blue;
+    border-width: 1px;
+    border-color: black;
+    width: 32px;
+    height: 32px;
+}
+
+p {
+    background-color: green;
+}
