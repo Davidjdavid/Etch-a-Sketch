@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function createGrid (width, height) {
 
-        //container.innerHTML = '';
+        container.innerHTML = '';
         
         for (i = 0; i < width; i++) {
 
