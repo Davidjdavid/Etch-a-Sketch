@@ -6,7 +6,7 @@ let setSize = document.getElementById("setSize");
 function createGrid (width, height) {
 
     //container.innerHTML = '';
-    
+    console.log("test");
     for (i = 0; i < width; i++) {
 
         let row = document.createElement("div");
